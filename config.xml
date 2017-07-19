@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android = "http://schemas.android.com/apk/res/android id="com.pixelgang.zomcare" version="1.0">
 
 	<name>Zombie Healthcare</name>
@@ -27,7 +27,6 @@
 
 	<plugin name="cordova-plugin-whitelist" source="npm" />
 	<access origin="*" />
-	<plugin name="cordova-plugin-inappbrowser" source="npm" />
 
 	<!-- Optional splash screen image, e.g.: -->
 	<!-- <gap:splash src="splash.png" width="1024" height="768" /> -->
